@@ -1,9 +1,9 @@
 PERN-Project
 ## Node Version
 
-This project requires Node 20.
+This project requires Node 24.
 
-If you use nvm:
+nmvrc file is provided so just use:
 
 ```bash
 nvm use
